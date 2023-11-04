@@ -1,0 +1,131 @@
+{
+    "mockStore": [
+      {
+        "id":"1",
+        "slug": "kiddily-store",
+        "backgroundLogo": "/store-background.svg",
+        "storeLogo": "/shopByStore-1.png",
+        "name": "Kiddily Store",
+        "image": "/shopByStore-1.png",
+        "description": "Kiddily Store is your one-stop shop for a wide range of quality toys for kids of all ages.",
+        "rating": 4.5,
+        "tagline": "Quality Toys for Kids",
+        "products": [
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1/png",
+            "price": 15.99
+          },
+          {
+            "name": "Stuffed Animal",
+            "image": "/sellerStore1-1/png",
+            "price": 10.99
+          }
+        ],
+        "userReviews": [
+          {
+            "userImage": "/user-image.png",
+            "userName": "John Doe",
+            "date": "May 15, 2023",
+            "rating": 5,
+            "review": "Great store with a fantastic selection of toys!",
+            "comment": "I highly recommend this store to parents.",
+            "images": ["/sellerStore1-1/png", "/sellerStore1-1/png"]
+          },
+          {
+            "userImage": "/user-image.png",
+            "userName": "Jane Smith",
+            "date": "May 10, 2023",
+            "rating": 4,
+            "review": "Good variety of toys for different age groups.",
+            "comment": "The prices are reasonable too.",
+            "images": ["/sellerStore1-1/png"]
+          }
+        ],
+        "storeDetails": {
+          "sales": 1000,
+          "followers": 500,
+          "avgResponseTime": "2 hours",
+          "dateCreated": "May 2022",
+          "members": [
+            {
+              "name": "Alice Johnson",
+              "position": "Store Manager"
+            },
+            {
+              "name": "Bob Smith",
+              "position": "Customer Support"
+            }
+          ],
+          "contact": {
+            "email": "kiddilystore@example.com",
+            "address": "123 Toy Street, Kidstown, USA"
+          }
+        }
+      },
+      {
+        "id":"2",
+        "slug": "destiny-jewelry",
+        "backgroundLogo": "/store-background2.jpg",
+        "storeLogo": "/shopByStore-1.png",
+        "name": "Destiny Jewelry",
+        "image": "/shopByStore-1.png",
+        "description": "Discover exquisite jewelry for all occasions at Destiny Jewelry.",
+        "rating": 4,
+        "tagline": "No.1 Jewelry Plug",
+        "products": [
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1/png",
+            "price": 250.99
+          },
+          {
+            "name": "Gold Earrings",
+            "image": "/sellerStore1-1/png",
+            "price": 180.99
+          }
+        ],
+        "userReviews": [
+          {
+            "userImage": "/user-image.png",
+            "userName": "Emily White",
+            "date": "May 20, 2023",
+            "rating": 4,
+            "review": "Beautiful jewelry and great customer service!",
+            "comment": "I found the perfect necklace for my anniversary.",
+            "images": ["/sellerStore1-1/png"]
+          },
+          {
+            "userImage": "/images/user4.jpg",
+            "userName": "Michael Brown",
+            "date": "May 18, 2023",
+            "rating": 4,
+            "review": "High-quality jewelry at affordable prices.",
+            "comment": "Will definitely come back for more.",
+            "images": ["/sellerStore1-1/png", "/sellerStore1-1/png"]
+          }
+        ],
+        "storeDetails": {
+          "sales": 500,
+          "followers": 300,
+          "avgResponseTime": "3 hours",
+          "dateCreated": "April 2021",
+          "members": [
+            {
+              "name": "Sophia Clark",
+              "position": "Owner & Designer"
+            },
+            {
+              "name": "Lucas Taylor",
+              "position": "Customer Relations"
+            }
+          ],
+          "contact": {
+            "email": "destinyjewelry@example.com",
+            "address": "456 Gem Avenue, Jewel City, USA"
+          }
+        }
+      }
+    ]
+  }
+  
