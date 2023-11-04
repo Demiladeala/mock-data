@@ -20,6 +20,41 @@
             "name": "Stuffed Animal",
             "image": "/sellerStore1-1.png",
             "price": 10.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
+          },
+          {
+            "name": "Toy Car",
+            "image": "/sellerStore1-1.png",
+            "price": 15.99
           }
         ],
         "userReviews": [
@@ -76,13 +111,48 @@
         "products": [
           {
             "name": "Diamond Necklace",
-            "image": "/sellerStore1-1/png",
+            "image": "/sellerStore1-1.png",
             "price": 250.99
           },
           {
             "name": "Gold Earrings",
-            "image": "/sellerStore1-1/png",
+            "image": "/sellerStore1-1.png",
             "price": 180.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
+          },
+          {
+            "name": "Diamond Necklace",
+            "image": "/sellerStore1-1.png",
+            "price": 250.99
           }
         ],
         "userReviews": [
@@ -93,7 +163,7 @@
             "rating": 4,
             "review": "Beautiful jewelry and great customer service!",
             "comment": "I found the perfect necklace for my anniversary.",
-            "images": ["/sellerStore1-1/png"]
+            "images": ["/sellerStore1-1.png"]
           },
           {
             "userImage": "/images/user4.jpg",
@@ -102,7 +172,7 @@
             "rating": 4,
             "review": "High-quality jewelry at affordable prices.",
             "comment": "Will definitely come back for more.",
-            "images": ["/sellerStore1-1/png", "/sellerStore1-1/png"]
+            "images": ["/sellerStore1-1.png", "/sellerStore1-1.png"]
           }
         ],
         "storeDetails": {
