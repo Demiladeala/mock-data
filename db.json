@@ -13,12 +13,12 @@
         "products": [
           {
             "name": "Toy Car",
-            "image": "/sellerStore1-1/png",
+            "image": "/sellerStore1-1.png",
             "price": 15.99
           },
           {
             "name": "Stuffed Animal",
-            "image": "/sellerStore1-1/png",
+            "image": "/sellerStore1-1.png",
             "price": 10.99
           }
         ],
@@ -30,7 +30,7 @@
             "rating": 5,
             "review": "Great store with a fantastic selection of toys!",
             "comment": "I highly recommend this store to parents.",
-            "images": ["/sellerStore1-1/png", "/sellerStore1-1/png"]
+            "images": ["/sellerStore1-1.png", "/sellerStore1-1.png"]
           },
           {
             "userImage": "/user-image.png",
@@ -39,7 +39,7 @@
             "rating": 4,
             "review": "Good variety of toys for different age groups.",
             "comment": "The prices are reasonable too.",
-            "images": ["/sellerStore1-1/png"]
+            "images": ["/sellerStore1-1.png"]
           }
         ],
         "storeDetails": {
