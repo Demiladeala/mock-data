@@ -292,7 +292,7 @@
             "images": ["/sellerStore1-1.png"]
           },
           {
-            "userImage": "/images/user4.jpg",
+            "userImage": "/user-image.png",
             "userName": "Michael Brown",
             "date": "May 18, 2023",
             "rating": 4,
